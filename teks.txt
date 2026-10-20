@@ -1,0 +1,3 @@
+Belajar Python itu menyenangkan. Python adalah bahasa yang mudah dipelajari dan Python banyak dipakai
+di bidang sistem informasi. Data adalah aset penting, dan struktur data membantu kita mengelola data
+dengan baik. List, tuple, set, dan dictionary adalah struktur data bawaan Python.
